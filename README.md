@@ -114,7 +114,6 @@ When using the core files, the demo images, posts, and pages are all included wi
    - `description`
    - `author`
    - `twitter_username` (Optional)
-   - `facebook_username` (Optional)
    - `github_username` (Optional)
 3. Build your site: `bundle exec jekyll serve`
 

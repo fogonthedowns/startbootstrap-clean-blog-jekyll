@@ -1,14 +1,14 @@
-title:             Clean Blog
+title:             jz.io blog
 email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+description:       A Blog Theme by jz
+author:            jz
+brand:             jz.io
+baseurl:           "/jzio-clean-blog-jekyll"
+url:               "http://jz.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  justinzollars
+github_username:   fogonthedowns
 
 # Build settings
 markdown:          kramdown
